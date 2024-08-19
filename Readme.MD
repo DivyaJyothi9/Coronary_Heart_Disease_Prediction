@@ -1,4 +1,4 @@
-Machine_Learning_CHD
+**Machine_Learning_CHD**
 
 This project focuses on predicting the likelihood of males developing coronary heart disease (CHD) within the next 10 years.
 We will explore the proportion of patients at significant risk of cardiovascular disease (CVD) and assess the overall risk using Logistic Regression. 
